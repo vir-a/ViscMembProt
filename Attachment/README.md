@@ -1,0 +1,2 @@
+These files contain the code used to simulate the time it takes for thermal fluctuations to cause a nanoscale thin liquid film covered by an elastic membrane to deform sufficiently in order to bring proteins close enough to each other for them to attach.
+There is a file containing all the main function modules in the project, and then various files that call these functions in order to run simulations, postprocess results, or make plots of the data.
