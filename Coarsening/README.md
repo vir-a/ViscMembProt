@@ -1,0 +1,2 @@
+These files contain the code used to simulate the coarsening dynamics of a thin viscous film covered by an elastic membrane with bending rigidity or interfacial tension when it is subjected to a potential from a protein species that wants to bind.
+There is a file containing all the main function modules in the project, and then various files that call these functions in order to run simulations, postprocess results, or make plots of the data.
